@@ -5,18 +5,21 @@
   And a qualified IT Technician
 </p>
 <p>
-  Tech is my thing, i solve any problem as long as it has an error.
+  Tech is my thing, i solve any problem as long as it has an ⚡⚡""error""⚡⚡.
 </p>
 
   Its just an amazing experience to see how we get to play with code.
-  <hr>
+  <br>
   <hr>
   <p>-Java</p>
   <p>C</p>
   <p>C#</p>
   <p>Python</p>
+  <hr>
+  
  
- Contents of the Array above!!!
+ Contents of the Array above!!! 
+ 🛒🛒🛒🛒🛒🛒
 
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

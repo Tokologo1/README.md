@@ -9,18 +9,14 @@
 </p>
 
   Its just an amazing experience to see how we get to play with code.
-  <marquee>Java</marquee>
-  <marquee>C</marquee>
-  <marquee>C#</marquee>
-  <marquee>Python</marquee>
-  
-  <marquee direction="right" 
-        behavior="alternate" 
-        style="border:BLACK 2px SOLID">
-        Just look abovr and see what i mean!!!!
-    </marquee>
-
-
+  <hr>
+  <hr>
+  <p>-Java</p>
+  <p>C</p>
+  <p>C#</p>
+  <p>Python</p>
+ 
+ Contents of the Array above!!!
 
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>

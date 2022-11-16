@@ -7,7 +7,7 @@
 <p>
   Tech is my thing, i solve any problem as long as it has an error.
 </p>
-<p>
+
   Its just an amazing experience to see how we get to play with code.
   <marquee>Java</marquee>
   <marquee>C</marquee>
@@ -19,7 +19,7 @@
         style="border:BLACK 2px SOLID">
         Just look abovr and see what i mean!!!!
     </marquee>
-</p>
+
 
 
 
